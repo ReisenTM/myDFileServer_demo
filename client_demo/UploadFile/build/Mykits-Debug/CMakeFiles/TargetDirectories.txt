@@ -1,0 +1,9 @@
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/UploadFile.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/edit_cache.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/rebuild_cache.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/list_install_components.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/install.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/install/local.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/install/strip.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/UploadFile_autogen_timestamp_deps.dir
+/Users/c.c/Project/QT/UploadFile/build/Mykits-Debug/CMakeFiles/UploadFile_autogen.dir

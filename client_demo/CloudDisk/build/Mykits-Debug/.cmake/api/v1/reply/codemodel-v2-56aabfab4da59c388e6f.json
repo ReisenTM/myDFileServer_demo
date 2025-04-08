@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-93d4a34026b8d22171ec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CloudDisk",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CloudDisk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CloudDisk-Debug-c09407801ea39d4609c5.json",
+					"name" : "CloudDisk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CloudDisk_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CloudDisk_autogen-Debug-729846eb10eb72f8ce1f.json",
+					"name" : "CloudDisk_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CloudDisk_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CloudDisk_autogen_timestamp_deps-Debug-aae64ccd78f12006915c.json",
+					"name" : "CloudDisk_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/c.c/Project/QT/CloudDisk/build/Mykits-Debug",
+		"source" : "/Users/c.c/project/QT/CloudDisk"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
